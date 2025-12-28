@@ -1,4 +1,4 @@
-# Proyecto de Agente Local con Capacidad de Búsqueda Web
+# Agente Local Docker Model Runner con Capacidad de Búsqueda Web
 
 Este proyecto implementa un entorno para interactuar con Modelos de Lenguaje Grandes (LLMs) de forma local, potenciado por un agente ligero de Business Intelligence (BI) con capacidad para realizar búsquedas en la web en tiempo real. La ejecución del LLM se realiza a través de la funcionalidad "Docker Model Runner" de Docker Desktop, que proporciona un servidor de inferencia de modelos en un puerto TCP local.
 
