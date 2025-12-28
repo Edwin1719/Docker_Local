@@ -161,8 +161,15 @@ Este script te pedirá que introduzcas una pregunta. El agente procesará la pre
 ```bash,
 python agent_search.py
 ```
-> **Pregunta:** `[Escribe tu pregunta aquí y presiona Enter]`
+### Ejecutar la Aplicacion de Streamlit
 
+la App te pedirá que introduzcas una pregunta, La cual procesará y buscará en la web si es necesario para generar un reporte.
+
+```bash,
+streamlit run app.py
+```
+
+> **Pregunta:** `[Escribe tu pregunta aquí y presiona Enter]`
 
 ### Acceder a la Interfaz Web (Opcional)
 
