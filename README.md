@@ -2,6 +2,8 @@
 
 Este proyecto implementa un entorno para interactuar con Modelos de Lenguaje Grandes (LLMs) de forma local, potenciado por un agente ligero de Business Intelligence (BI) con capacidad para realizar búsquedas en la web en tiempo real. La ejecución del LLM se realiza a través de la funcionalidad "Docker Model Runner" de Docker Desktop, que proporciona un servidor de inferencia de modelos en un puerto TCP local.
 
+![texto del vínculo](https://upload.wikimedia.org/wikipedia/commons/1/1e/Docker_Logo.png)
+
 ## 📜 Descripción
 
 El sistema permite a los usuarios enviar consultas a un modelo de lenguaje que se ejecuta localmente. Se incluyen dos scripts principales:
